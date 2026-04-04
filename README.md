@@ -30,4 +30,5 @@ Registrar Tradicion: En la pestaña Write Contract, usa registrarPlato para aña
 Votacion Inmutable: Sistema de Likes y Dislikes para medir la popularidad de la gastronomia de Santa Lucia en la blockchain.
 
 🐈 Nota de Autoria
+
 🐈 Curiosidad del Gato: En Santa Lucia, el gato sabe que aunque le digan "higo", es un banano verde y firme. Mi codigo mantiene esa misma firmeza en los datos para que ningun bloque se ablande en la red Base. Mi mision es documentar cada sabor de America, paso a paso. 🐾
